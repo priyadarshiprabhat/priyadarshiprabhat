@@ -1,106 +1,27 @@
-# 👋 Hi, I'm Prabhat Priyadarshi
+# 💫 About Me:
+Hi, I'm Prabhat Priyadarshi 👋<br><br>I'm a Computer Science & Engineering student at Government Polytechnic Muzaffarpur and the Founder of Vishwodyya Initiative Pvt. Ltd. I'm passionate about building secure, scalable, and impactful technology that solves real-world problems.<br><br>My primary interests lie in Cybersecurity, Ethical Hacking, Network Security, Open Source, Artificial Intelligence, and Full-Stack Web Development. I enjoy exploring how technology can improve digital security while creating meaningful solutions for communities.<br><br>I hold professional certifications including Certified Ethical Hacker (CEH), Certified Red Team Operations Management (CRTOM), Cisco Computer Hardware Basics, and the Tata Cybersecurity Analyst Job Simulation. These experiences have strengthened my understanding of penetration testing, vulnerability assessment, network security, and defensive security practices.<br><br>Beyond cybersecurity, I'm continuously expanding my skills through hands-on projects, technical research, and open-source contributions. My long-term goal is to become a Security Operations Center (SOC) Analyst and eventually specialize in Threat Hunting, Incident Response, and Red Team Operations.<br><br>Outside the technical world, I enjoy reading books on leadership, psychology, finance, and strategy. Some of my favorite books are Rich Dad Poor Dad and The 48 Laws of Power. I also earned a District-Level Taekwondo Gold Medal (2024) and received a ₹10,000 Bhagavad Gita Excellence Award for studying and reciting Chapters 1–10, experiences that strengthened my discipline, resilience, and commitment to lifelong learning.<br><br>🚀 Current Focus<br>🔐 Cybersecurity & Ethical Hacking<br>🛡️ SOC & Blue Team Skills<br>🌐 Secure Web Development<br>☁️ Cloud Security<br>🤖 Artificial Intelligence<br>💻 Open Source Contributions<br>🚀 Building Vishwodyya Initiative<br>💡 Motto<br><br>"Keep Learning. Build Responsibly. Secure the Future."
 
-<div align="center">
 
-### 🔐 Cybersecurity Enthusiast | Founder | Computer Science & Engineering Student
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/trashadowroot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-priyadarshi-9b73bb309) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@VISHWODYAOFFICIAL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.prabhatpriyadarshi@gmail.com) 
 
-*"Learning. Building. Securing."*
+# 💻 Tech Stack:
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=priyadarshiprabhat&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=priyadarshiprabhat&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyadarshiprabhat&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyadarshiprabhat&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 About Me
-
-I'm **Prabhat Priyadarshi**, a **Diploma in Computer Science & Engineering** student at **Government Polytechnic Muzaffarpur, Bihar, India**.
-
-I am the **Founder of Vishwodya Initiative Pvt. Ltd.**, where I work on technology-driven initiatives focused on education, digital empowerment, and community development.
-
-I'm passionate about **Cybersecurity, Ethical Hacking, Open Source, Linux, and Secure Software Development**, and I'm continuously improving my skills through projects, labs, and hands-on learning.
-
----
-
-## 🛡️ Certifications
-
-* 🎓 Certified Ethical Hacker (CEH) – ASD Academy
-* 🎓 Certified Red Team Operations Management (CRTOM) – Red Team Leaders
-* 🎓 Computer Hardware Basics – Cisco
-* 🎓 Tata Cybersecurity Analyst Job Simulation – Forage
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=priyadarshiprabhat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=priyadarshiprabhat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Tech Stack
-
-**Languages**
-
-* HTML
-* CSS
-* JavaScript
-* Python (Learning)
-
-**Cybersecurity**
-
-* Ethical Hacking
-* Network Security
-* Web Security
-* Vulnerability Assessment (VAPT)
-* Linux
-* Security Fundamentals
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Wireshark
-* Nmap
-* Burp Suite
-* VirtualBox
-
----
-
-## 📚 Currently Learning
-
-* Security Operations Center (SOC)
-* Incident Response
-* Digital Forensics
-* Threat Hunting
-* Cloud Security
-* Python Automation
-
----
-
-## 🏆 Achievements
-
-* 🥇 District-Level Taekwondo Gold Medalist (2024)
-* 📖 ₹10,000 Award for Bhagavad Gita (Chapters 1–10)
-* 🚀 Founder of Vishwodya Initiative Pvt. Ltd.
-
----
-
-## 📖 Favorite Books
-
-* 📘 Rich Dad Poor Dad
-* 📙 The 48 Laws of Power
-
----
-
-## 🎯 Goals
-
-* Build impactful open-source projects
-* Contribute to the cybersecurity community
-* Develop secure applications
-* Become a SOC Analyst
-* Continue learning and sharing knowledge
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: *(Add your LinkedIn URL)*
-* 🌍 Portfolio: *(Add your portfolio URL)*
-* 📧 Email: *(Add your professional email)*
-
----
-
-> **"Technology is most powerful when it is built ethically, secured responsibly, and used to improve lives."**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
